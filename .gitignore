@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Test / temp artifacts
+*_SKILLTEST_*
+*_test.json
+_tmp/
+
+# Office temp lock files
+~$*
+*.tmp
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
