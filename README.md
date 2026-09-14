@@ -9,7 +9,7 @@
 
 - Skill 标识：`scnu-syntheses-evaluation-review`
 - 显示名：**SCNU综评审核标准**
-- 仓库：https://github.com/Gorilla-Kevv/campus-syntheses-evaluation-review
+- 仓库：https://github.com/Gorilla-Kevv/scnu-syntheses-evaluation-review
 
 ---
 
