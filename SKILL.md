@@ -1,5 +1,5 @@
 ---
-name: campus-syntheses-evaluation-review
+name: scnu-syntheses-evaluation-review
 title: SCNU综评审核标准
 description: SCNU综评审核标准——华南师范大学人工智能学院全日制本科学生《综合素质测评登记表》审核。审校分值、模块归属、材料合规性与时间范围，产出问题汇总、修订版登记表与原生 Word 批注版副本。This skill should be used when 用户提供综合素质评价实施细则 + 若干学生登记表/佐证材料文件夹（PDF/图片/docx/xls），要求审校分值、模块归属、材料合规性、时间范围，或将问题汇总转发学生核对，或要求在副本上批量批注。触发词：综测、综合素质测评、综合素质评价、登记表审核、实施细则、加减分核对、材料合规、综测批注、奖学金评审材料审核、华南师范大学、华师、SCNU、人工智能学院。
 agent_created: true
@@ -7,7 +7,7 @@ agent_created: true
 
 # SCNU综评审核标准
 
-> Skill 标识：`campus-syntheses-evaluation-review` ｜ 显示名：**SCNU综评审核标准**
+> Skill 标识：`scnu-syntheses-evaluation-review` ｜ 显示名：**SCNU综评审核标准**
 > 标准来源：《华南师范大学人工智能学院全日制本科学生综合素质评价实施细则（2025）》
 
 ## 适用范围声明（先读这一节）

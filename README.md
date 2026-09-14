@@ -7,7 +7,7 @@
 
 面向场景：学院奖学金 / 评优综测材料审核、年级与班委批量核查学生登记表、学院综合素质评议工作组复核。
 
-- Skill 标识：`campus-syntheses-evaluation-review`
+- Skill 标识：`scnu-syntheses-evaluation-review`
 - 显示名：**SCNU综评审核标准**
 - 仓库：https://github.com/Gorilla-Kevv/campus-syntheses-evaluation-review
 
@@ -152,7 +152,7 @@
 ## 四、目录结构
 
 ```
-campus-syntheses-evaluation-review/
+scnu-syntheses-evaluation-review/
 ├── SKILL.md                        # 主文件：用途 / 触发条件 / 输入 / 评审标准 / 流程 / 输出 / 陷阱 / 边界
 ├── README.md                       # 本文档
 ├── LICENSE                         # MIT
@@ -171,10 +171,10 @@ campus-syntheses-evaluation-review/
 把本目录放到 WorkBuddy 的用户级 skill 目录：
 
 ```
-~/.workbuddy/skills/campus-syntheses-evaluation-review/
+~/.workbuddy/skills/scnu-syntheses-evaluation-review/
 ```
 
-Windows：`C:\Users\<用户名>\.workbuddy\skills\campus-syntheses-evaluation-review\`
+Windows：`C:\Users\<用户名>\.workbuddy\skills\scnu-syntheses-evaluation-review\`
 
 依赖：`python-docx >= 1.2.0`（1.1.x 不支持 `add_comment`）、`pymupdf`。
 
